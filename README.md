@@ -1,6 +1,9 @@
 **Name:** Angel priya
+
 **Company:** CODETECH IT SOLUTIONS 
+
 **Domain:** C programming
+
 **Duration:** June to July 2026
 
 **Temperature Converter in C**
